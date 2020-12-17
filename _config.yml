@@ -14,9 +14,10 @@ author: Team CHIC
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  DataStory: "aboutme"
+  Our DataStory: "aboutme"
+  Source Code: "https://github.com/epfl-ada/ada-2020-project-milestone-p3-p3_chic/blob/master/p4.ipynb"
   Diplomacy Rules: "https://www.playdiplomacy.com/help.php?sub_page=Game_Rules"
-  Notebook Repository: "https://github.com/epfl-ada/ada-2020-project-milestone-p3-p3_chic/blob/master/p4.ipynb"
+  Original Paper: "http://vene.ro/betrayal/"
 
 # --- Logo --- #
 
