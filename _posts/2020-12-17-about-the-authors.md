@@ -3,7 +3,6 @@ layout: post
 title: About the authors
 subtitle: Team CHIC, EPFL
 cover-img: /assets/img/epfl.jpg
-thumbnail-img: /assets/img/epfl.png
 share-img: /assets/img/epfl.jpg
 ---
 
