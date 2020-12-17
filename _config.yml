@@ -14,7 +14,7 @@ author: Team CHIC
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Our DataStory: "aboutme"
+  Our DataStory: "https://arthurbricq.github.io/DiplomacyBetrayals/2020-12-17-about-the-authors/"
   Source Code: "https://github.com/epfl-ada/ada-2020-project-milestone-p3-p3_chic/blob/master/p4.ipynb"
   Diplomacy Rules: "https://www.playdiplomacy.com/help.php?sub_page=Game_Rules"
   Original Paper: "http://vene.ro/betrayal/"
