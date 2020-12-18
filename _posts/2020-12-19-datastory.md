@@ -30,7 +30,7 @@ We randomly draw 500 games from the dataset (as processing the entire dataset to
 Like in real life, making friends is hard. One or two acts of friendships aren’t enough to become allies. We consider two players as friends if their relationship contains at least two consecutive and reciprocated acts of friendship that span at least four seasons in game time. 
 
 
-![img](../assets/img/img4.png){: .mx-auto.d-block :}
+![img](../assets/img/img4.jpg){: .mx-auto.d-block :}
 
 As shown in the figure above, almost half of the 500 randomly sampled games don’t include a single friendship. Around a third of the games have only one friendship between two players. Less than 15% of the games contain two or more friendships.
 
