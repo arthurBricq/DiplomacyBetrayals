@@ -17,3 +17,5 @@ My name is Arthur Bricq, I like outdoor sports more than programming (*but I do 
 My name is Taavet Kangur. I've always loved building things with my hands and using programming to make robots as I want. They got smaller as I studied Microtechnics as a bachelor and now are bigger as I'm finishing my master in Robotics at EPFL. C++ and Python are my main languages for progamming. Otherwise swimming and climing are my main favorite pasttimes when not working on projects.
 
 # Diane
+
+My name is Diane Marquette. I'm a polyglot who's passionate about languages. After only discussing with humans the first 16 years of my life, I decided it was time to learn how to chat with machines. I started my Bachelor's in Microengineering at EPFL. I'm now doing a Masters in Robotics but focusing more on the programming part. I'm fluent in C, C++, and Python but also learned the basics of Java, Dart, and Assembly language.

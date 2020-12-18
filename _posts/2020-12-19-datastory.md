@@ -1,3 +1,9 @@
+---
+layout: post
+title: Betrayals for the win
+subtitle: Our Data Story
+---
+
 > “The saddest thing about betrayal is that it never comes from your enemies.”
 
 Alliance, friendships, common interests but also trickery, deception, and betrayal shape our human interactions offline and online. 
