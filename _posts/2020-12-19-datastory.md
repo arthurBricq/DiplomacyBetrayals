@@ -22,15 +22,15 @@ Now that we have the basics in mind, enough words. Let’s focus on the acts. We
 
 We randomly draw 500 games from the dataset (as processing the entire dataset to find all the acts of friendship and hostility would take us days). We see that there are way more hostile actions than friendly actions, which seems logical given the game.
 
-![img](assets/img/img2.jpg)
+![img](../assets/img/img2.jpg)
 
-![img](assets/img/img3.jpg)
+![img](../assets/img/img3.jpg)
 
 
 Like in real life, making friends is hard. One or two acts of friendships aren’t enough to become allies. We consider two players as friends if their relationship contains at least two consecutive and reciprocated acts of friendship that span at least four seasons in game time. 
 
 
-![img](assets/img/img4.png)
+![img](../assets/img/img4.png)
 
 As shown in the figure above, almost half of the 500 randomly sampled games don’t include a single friendship. Around a third of the games have only one friendship between two players. Less than 15% of the games contain two or more friendships.
 
@@ -47,7 +47,7 @@ But how do we define a betrayal? Two definitions can be proponed:
 
 
 
-![img](assets/img/img5.png)
+![img](../assets/img/img5.png)
 
 
 
@@ -73,13 +73,13 @@ We first divide the players into two groups:
 As shown in the following figure, winners are mostly players that were engaged in a friendship, whereas losers are often “single”. 
 
 
-![img](assets/img/img6.png)
+![img](../assets/img/img6.png)
 
 
 
 If we plot the same graph but this time, focusing exclusively on players that were engaged in a friendship, we notice that there are way more “neutral” players, i.e., BFFs that never betrayed each other in the losers than in the winners group. 
 
-![img](assets/img/img7.png)
+![img](../assets/img/img7.png)
 
 
 
@@ -87,13 +87,13 @@ If we compare the proportion of winners among each of these 4 types of players (
 
 
 
-![img](assets/img/img8.png)
+![img](../assets/img/img8.png)
 
 
 
 However, we must be cautious in our claims as this strategy game is very complex, and there are numerous potential confounding factors. From our analysis, we can only say that cooperating during the game with your bestie doesn't seem to correlate with high chances of winning compared to betraying him/her, but it's still better than having no allies!
 
-![img](assets/img/img9.png)
+![img](../assets/img/img9.png)
 
 
 
@@ -120,7 +120,7 @@ If we give our trained classifier a new dataset of 20 games with at least one se
 
 
 
-![img](assets/img/img10.png)
+![img](../assets/img/img10.png)
 
 
 
