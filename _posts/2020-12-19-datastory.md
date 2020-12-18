@@ -10,7 +10,7 @@ Unlike in our daily lives, in a game, there are explicit rules, parameters, and 
 
 The [dataset](https://data.world/maxstrange/diplomacyboardgame) we chose for our analysis consists of 21'197 different games from the web-based implementation of Diplomacy. Each of the seven players' main goal is to conquer Europe by making deals and alliances to control at least 18 supply centers and win the game. As shown in the following figures, most of the games last between 19 and 43 turns.
 
-![img](assets/img/img1.jpg)
+![img](../assets/img/img1.jpg)
 
 > “For there to be betrayal, there would have to have been trust first.” – Suzanne Collins 
 
