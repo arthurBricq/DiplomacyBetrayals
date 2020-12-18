@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 title: Our Report
 subtitle: We actually did a DataStory and a Report, since we didn't see we only had one to do
 ---
