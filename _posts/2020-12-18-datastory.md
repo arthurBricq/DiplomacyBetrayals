@@ -57,7 +57,7 @@ But how do we define a betrayal? Two definitions can be proponed:
 
 
 
-We therefore created a new subset from the original dataset. This time, we randomly sampled 500 games with at least one friendship. As shown in the figure above, for N=1, we notice that only 318 (i.e., 36,4%) of the friendships don’t eventually end with a betrayal!
+We therefore created a new subset from the original dataset. This time, we randomly sampled 500 games with at least one friendship. As shown in the figure above, for N=1, we notice that only 182 (i.e., 36,4%) of the friendships don’t eventually end with a betrayal!
 
 However, “serial betrayers” are quite rare. In more than 500 friendships, only 10 players (i.e., around 3% of the betrayers) betrayed twice their allies, and 0 players committed more than 2 betrayals. In addition, only one player has been both the betrayer and the victim. 
 
